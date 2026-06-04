@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Setup
+
+1. `npm install`
+2. Copy `.env.local.example` to `.env.local` and add your OpenAI API key
+3. Download LCA Disclosure Data from https://www.dol.gov/agencies/eta/foreign-labor/performance
+   and save as `scripts/input/lca_raw.xlsx`
+4. `npm run build:lca`
+5. `npm run dev`
+
 ## Getting Started
 
 First, run the development server:

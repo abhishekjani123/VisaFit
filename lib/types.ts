@@ -8,8 +8,8 @@ export interface VerdictResult {
     lcaYears: Record<string, number>
     ghostRisk: SignalColor
     ghostFlags: string[]
-    resumeA: { score: number; gaps: string[] }
-    resumeB: { score: number; gaps: string[] }
+    resumeA: { score: number; pros: string[]; gaps: string[] }
+    resumeB: { score: number; pros: string[]; gaps: string[] }
     recommended: 'A' | 'B' | 'neither'
     verdict: SignalColor
     reason: string
@@ -26,8 +26,8 @@ export interface LLMOutput {
     company: string
     ghostRisk: SignalColor
     ghostFlags: string[]
-    resumeA: { score: number; gaps: string[] }
-    resumeB: { score: number; gaps: string[] }
+    resumeA: { score: number; pros: string[]; gaps: string[] }
+    resumeB: { score: number; pros: string[]; gaps: string[] }
     recommended: 'A' | 'B' | 'neither'
     reason: string
 }
