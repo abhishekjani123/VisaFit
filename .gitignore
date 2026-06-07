@@ -34,8 +34,13 @@ yarn-error.log*
 .env*
 !.env.local.example
 
-# LCA raw input data
+# LCA raw input data & local DB
 scripts/input/
+data/visafit.db
+data/visafit.db-*
+
+# extension build output
+extension/dist/
 
 # vercel
 .vercel
