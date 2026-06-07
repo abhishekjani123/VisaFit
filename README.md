@@ -25,11 +25,9 @@ We built VisaFit to answer one question before every application: **"Should I bu
 
 ## Team
 
-| Name | Role |
-|------|------|
-| **Abhishek Jani** | Full-stack development, visa evaluation engine, LinkedIn ingestion |
-| **Dipen Prajapati** | Backend, database, LCA data pipeline |
-| **Janki Kanakia** | Product design, UX, demo & presentation |
+- **Abhishek Jani**
+- **Dipen Prajapati**
+- **Janki Kanakia**
 
 Built with heavy use of **GitHub Copilot** throughout the hackathon — from Next.js scaffolding and API routes to regex engines, LLM prompts, and UI components.
 
