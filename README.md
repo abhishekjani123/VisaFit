@@ -38,7 +38,8 @@ Built with heavy use of **GitHub Copilot** throughout the hackathon — from Nex
 ## Screenshots
 
 ### Landing page
-![VisaFit landing page](docs/screenshots/landing.png)
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/47012460-fc1e-4b0f-8737-fa8418a38b90" />
+
 
 ### LinkedIn job import
 Paste your filtered LinkedIn search URL — VisaFit pulls and analyzes every listing automatically.
