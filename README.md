@@ -36,29 +36,30 @@ Built with heavy use of **GitHub Copilot** throughout the hackathon — from Nex
 ## Screenshots
 
 ### Landing page
-<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/47012460-fc1e-4b0f-8737-fa8418a38b90" />
+<img width="1357" height="833" alt="image" src="https://github.com/user-attachments/assets/164f6ee4-9e0d-458a-b27c-586d97ff9624" />
+
 
 
 ### LinkedIn job import
 Paste your filtered LinkedIn search URL — VisaFit pulls and analyzes every listing automatically.
 
-<img width="1176" height="749" alt="image" src="https://github.com/user-attachments/assets/28755f2f-0418-4600-8c9f-6ad1898984d9" />
+<img width="742" height="691" alt="image" src="https://github.com/user-attachments/assets/02dc30ee-e821-429b-9e3a-eb9892a66a90" />
+
 
 
 ### Job tracker with evidence signals
 Filter by visa sponsorship, ghost risk, fit score, and recommended action. Every job shows which resume matches best.
 
-<img width="1211" height="775" alt="image" src="https://github.com/user-attachments/assets/3d2db44b-4657-4adc-a83e-9a261c53d8ed" />
-<img width="579" height="837" alt="image" src="https://github.com/user-attachments/assets/cfc68f5b-1f1f-4296-921f-8e52226e8ae3" />
-<img width="579" height="835" alt="image" src="https://github.com/user-attachments/assets/51963d2b-e71e-405d-9350-95fb01d98e85" />
-
-
+<img width="1203" height="834" alt="image" src="https://github.com/user-attachments/assets/f6ddd167-6abe-40dc-a5d0-85f92e19450f" />
+<img width="575" height="837" alt="image" src="https://github.com/user-attachments/assets/d85bdb92-1723-4a55-a024-1b98b544066e" />
+<img width="577" height="837" alt="image" src="https://github.com/user-attachments/assets/f934b856-7d44-4da0-903e-9b1de13b4e19" />
+<img width="577" height="833" alt="image" src="https://github.com/user-attachments/assets/3e5746c0-40cd-4c34-8211-71831db603eb" />
 
 
 ### Resume management (5 slots)
 Upload PDF resumes with LLM-powered parsing — skills, experience timeline, links, and projects extracted automatically.
 
-<img width="810" height="437" alt="image" src="https://github.com/user-attachments/assets/ff422266-0b50-40b6-bc16-d30eb3af1188" />
+<img width="817" height="509" alt="image" src="https://github.com/user-attachments/assets/12569198-bb79-4482-9729-dbe449f2209f" />
 
 
 ---
