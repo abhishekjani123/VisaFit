@@ -44,17 +44,24 @@ Built with heavy use of **GitHub Copilot** throughout the hackathon — from Nex
 ### LinkedIn job import
 Paste your filtered LinkedIn search URL — VisaFit pulls and analyzes every listing automatically.
 
-![Import LinkedIn jobs](docs/screenshots/import.png)
+<img width="1176" height="749" alt="image" src="https://github.com/user-attachments/assets/28755f2f-0418-4600-8c9f-6ad1898984d9" />
+
 
 ### Job tracker with evidence signals
 Filter by visa sponsorship, ghost risk, fit score, and recommended action. Every job shows which resume matches best.
 
-![Job tracker](docs/screenshots/tracker.png)
+<img width="1211" height="775" alt="image" src="https://github.com/user-attachments/assets/3d2db44b-4657-4adc-a83e-9a261c53d8ed" />
+<img width="579" height="837" alt="image" src="https://github.com/user-attachments/assets/cfc68f5b-1f1f-4296-921f-8e52226e8ae3" />
+<img width="579" height="835" alt="image" src="https://github.com/user-attachments/assets/51963d2b-e71e-405d-9350-95fb01d98e85" />
+
+
+
 
 ### Resume management (5 slots)
 Upload PDF resumes with LLM-powered parsing — skills, experience timeline, links, and projects extracted automatically.
 
-![Resume slots](docs/screenshots/resumes.png)
+<img width="810" height="437" alt="image" src="https://github.com/user-attachments/assets/ff422266-0b50-40b6-bc16-d30eb3af1188" />
+
 
 ---
 
