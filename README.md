@@ -4,7 +4,7 @@
 
 VisaFit helps international students and visa-sponsored job seekers decide **where to spend their limited applications**. Paste a LinkedIn jobs search URL, and VisaFit imports every listing, checks real H-1B employer data, flags ghost jobs and staffing/body-shop posts, matches roles against your resumes, and surfaces **quoted evidence** for every signal — so you apply with proof, not guesswork.
 
-> **🏆 3rd Place** — Microsoft GitHub Copilot Event · NYC Tech Week 2026  
+> **🏆 3rd Place** — Microsoft GitHub Copilot MVP Hackathon · NYC Tech Week 2026  
 > **📍 Demoed live** at the Microsoft office in New York City
 
 ---
