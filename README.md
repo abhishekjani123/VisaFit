@@ -25,9 +25,9 @@ We built VisaFit to answer one question before every application: **"Should I bu
 
 ## Team
 
-- **Abhishek Jani**
-- **Dipen Prajapati**
-- **Janki Kanakia**
+- [**Abhishek Jani**](https://github.com/abhishekjani123)
+- [**Dipen Prajapati**](https://github.com/Dipen0210)
+- [**Janki Kanakia**](https://github.com/Janki10)
 
 Built with heavy use of **GitHub Copilot** throughout the hackathon — from Next.js scaffolding and API routes to regex engines, LLM prompts, and UI components.
 
